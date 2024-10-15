@@ -1,5 +1,5 @@
 # VMware Private AI Foundation Tech Papers Dataset
-This repository contains a collection of technical papers from VMware Private AI Foundation, stored as PDFs, along with a CSV file that provides metadata for each document. The primary purpose of this dataset is to facilitate testing the ingestion and retrieval pipelines in a Proof of Concept Retrieval-Augmented Generation (RAG) deployment.
+This repository contains a collection of technical papers from VMware Private AI Foundation, stored as PDFs, along with a CSV file that provides metadata for each document. The primary purpose of this dataset is to facilitate testing the ingestion and retrieval pipelines in a Proof of Concept Retrieval-Augmented Generation (RAG) deployment. Use git clone https://github.com/frankdenneman/VMwarePrivateAIFoundationTechPapers.git to retrieve the dataset
 
 ## Dataset Purpose
 The **VMwarePrivateAIFoundationTechPapers** dataset is designed to help test and validate document ingestion and search capabilities. It provides a real-world set of technical papers to benchmark and evaluate retrieval efficiency and accuracy in AI-powered systems, such as those used in RAG deployments.
